@@ -1,0 +1,195 @@
+
+    
+    .Nav {
+        background-color: rgb(238, 34, 96) !important;
+    
+    }
+    
+    .navbar-brand img {
+        height: 80px;
+        width: 150px;
+        margin-left: 60px;
+    }
+    
+    .nav-item a {
+        font-size: 16px;
+        font-weight: bold;
+        margin-right: 10px;
+        color: white !important;
+    }
+    
+    .nav-item a:hover {
+        font-size: 16px;
+        font-weight: bold;
+        color: rgb(216, 190, 190) !important;
+    }
+    
+    .nav-item a:focus {
+        font-size: 16px;
+        font-weight: bold;
+        color: rgb(216, 190, 190);
+    }
+    
+    .dropdown a {
+        font-size: 16px;
+        font-weight: bold;
+        background-color: rgb(238, 34, 96) !important;
+    
+    }
+    
+    .dropdown :focus {
+        font-size: 16px;
+        font-weight: bold;
+        background-color: rgb(238, 34, 96) !important;
+        color: rgb(241, 234, 234);
+    
+    }
+    
+    .dropdown a:hover {
+        font-size: 16px;
+        font-weight: bold;
+        background-color: rgb(238, 34, 96) !important;
+    
+    }
+    
+    .dropdown i {
+        line-height: 13px;
+    }
+    
+    .Nav .navbar-toggler {
+        background-color: rgb(238, 34, 96) !important;
+    }
+    
+    .Nav .navbar-toggler:focus-visible {
+        outline-color: rgb(238, 34, 96) !important;
+        box-shadow: none;
+        background-color: rgb(238, 34, 96) !important;
+    }
+    
+    .Nav .navbar-toggler span {
+        background-color: rgb(238, 34, 96) !important;
+    
+    }
+    
+  
+    
+    .sideNav {
+    background-color: rgb(238, 34, 96) ;
+       height: 700px;  
+       /* width: 280px; */
+       overflow-y: auto;
+       overflow-x: hidden;
+    /* this is optional, so the div can expands to the side */
+          
+         
+    }
+    .sideNav li{
+        margin: 13px  2px;
+    }
+    .sideNav li a i{
+        color: beige;
+        margin-right: 3px ;
+    }
+    .sideNav li a{
+        color: beige;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 13px;
+        padding: 7px 5px;
+        text-decoration: none;
+    }
+   
+    .sideNav li ul {
+        list-style: none;
+       
+    }
+   
+    .sideNav li ul li a{
+        color: beige;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 15px;
+        text-decoration: none;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+
+   .panel1{
+    height: 150px;
+   }
+   .panel .panel-heading img {
+    border-radius: 5%;
+    height: 100px;
+   }
+   .panel .panel-heading .panel-title{
+    color: rgb(167, 17, 62);
+   }
+   .panel  label{
+    color: rgb(204, 32, 84);
+    font-size: 16px;
+   }
+   .panel .btn1{
+    color: rgb(167, 17, 62);
+    font-size: 17px;
+    font-weight: bold;
+   }
+
+   .panel .panel-body input[type="text"]{
+    background-color: beige;
+
+   }
+   .panel .panel-body input[type="text"]:focus{
+    background-color: beige;
+    box-shadow: none;
+    border-color: beige;
+
+   }
+   .panel .panel-body input[type="file"]{
+    background-color: beige;
+
+   }
+   .panel .panel-body input[type="file"]:focus{
+    background-color: beige;
+    box-shadow: none;
+    border-color: beige;
+
+   }
+   .panel .panel-body input[type="password"]{
+    background-color: beige;
+
+   }
+   .panel .panel-body input[type="password"]:focus{
+    background-color: beige;
+    box-shadow: none;
+    border-color: beige;
+
+   }
+   .panel .panel-body select{
+    background-color: beige;
+
+   }
+   .panel .panel-body select:focus{
+    background-color: beige;
+    box-shadow: none;
+    border-color: beige;
+
+   }
+   .panel .panel-body textarea{
+    background-color: beige;
+
+   }
+   .panel .panel-body textarea:focus{
+    background-color: beige;
+    box-shadow: none;
+    border-color: beige;
+
+   }
+   h1{
+    color: rgb(25, 25, 114);
+   }
+   .info{
+    background-color: beige;
+   }
+  
+
+    
